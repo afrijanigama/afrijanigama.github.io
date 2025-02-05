@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afrijanigama.github.io/sitemap.xml
